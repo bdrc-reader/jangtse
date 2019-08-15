@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://bdrc-reader.github.io/jangtse/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/jangtse/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <span>གཞུང་ལུགས།</span>  • <a href="https://bdrc-reader.github.io/jangtse/sungbum">བྱང་རྩེ་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/jangtse/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/jangtse/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/jangtse/natsok">སྣ་ཚོགས།</a></p>
+  <a href="https://bdrc-reader.github.io/jangtse/">མདུན་ངོས།</a> • <a href="https://bdrc-reader.github.io/jangtse/shadra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> • <span>གཞུང་ལུགས།</span>  • <a href="https://bdrc-reader.github.io/jangtse/sungbum">གསུང་འབུམ་ཁག</a> • <a href="https://bdrc-reader.github.io/jangtse/doncha">འདོན་ཆའི་སྐོར།</a> • <a href="https://bdrc-reader.github.io/jangtse/tantra">སྔགས་ཀྱི་སྐོར།</a> •  <a href="https://bdrc-reader.github.io/jangtse/natsok">སྣ་ཚོགས།</a></p>
 
 
-# བྱང་རྩེ་དང་འབྲེལ་བའི་གཞུང་ལུགས་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
+# གཞུང་ལུགས་ཁག་གི་དཔེ་ཀློག་སྒེའུ་ཁུང་།
 
-<iframe src="http://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0004002&origin=website.com" width="100%" height="100%"></iframe>
+<iframe src="https://library.bdrc.io/scripts/embed-iframe.html?work=bdr:W1ERI0004002&origin=website.com" width="100%" height="600"></iframe>
 
 <br>
 <br>
